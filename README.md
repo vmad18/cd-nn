@@ -14,7 +14,7 @@
 
 # Results 
 - CD-NN's sensitivities for stages I, II, and III cancers were 94%, 92%, and 92%. 
-- Improvement over the past paper's 43%, 75%, and 78% sensitivities for stages I, II, and III cancers. 
+- Improvement over the past paper's **43%**, **75%**, and **78%** sensitivities for stages I, II, and III cancers. 
 
 # Requirments
 - Tensorflow, latest stable
