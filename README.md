@@ -23,5 +23,5 @@
 - Pandas, latest stable
 
 # Paper & Dataset
-- Researchers used logistic regression for 
+- Researchers used logistic regression for detection of cancer.
 - https://www.science.org/doi/10.1126/science.aar3247
