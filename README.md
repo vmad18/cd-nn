@@ -12,8 +12,8 @@
 - Nested CV also helps to mitigate overfitting
 
 # Results 
-- Stages I, II, and III cancers had 94%, 92%, and 92% sensitivities respectively. 
-- Improvement over the paper's 43%, 75%, and 78% sensitivities for stages I, II, and III. 
+- CD-NN's sensitivities for stages I, II, and III cancers were 94%, 92%, and 92%. 
+- Improvement over the past paper's 43%, 75%, and 78% sensitivities for stages I, II, and III cancers. 
 
 # Requirments
 - Tensorflow, latest stable
