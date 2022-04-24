@@ -2,6 +2,7 @@
 - Early detection of 8 cancer types from human blood plasma samples via a neural network. 
 - Inspiration from research paper published in Science, "Detection and localization of surgically resectable cancers with a multi-analyte blood test."
 - Used in local science fair, where I was interviewed for ISEF. 
+- Code presented is a very "cleaned up" version of the colab notebook used for the project.  
 
 # Cancer Detect Neural Network
 - 4 Layer Neural Network
