@@ -5,10 +5,22 @@
 
 # Cancer Detect Neural Network
 - 4 Layer Neural Network
+- Input: 39 dimensional vector representing protein levels of blood plasma proteins
+- 2 Hidden Layers were used to ensure a function that will generalize the data
+- Output: 2 dimensional vector representing the probabilistic likelihood of the presence of cancer using softmax
+- Model was hyperparameter tuned and evaluated using Nested Cross Validation (CV)
+- Nested CV also helps to mitigate overfitting
 
-#Requirments
+# Results 
+- Stages I, II, and III cancers had 94%, 92%, and 92% sensitivities respectively. 
+- Improvement over the paper's 43%, 75%, and 78% sensitivities for stages I, II, and III. 
+
+# Requirments
 - Tensorflow, latest stable
 - Sci-Kit Learn, latest stable
+- Numpy, latest stable
+- Pandas, latest stable
 
 # Paper & Dataset
+- Researchers used logistic regression for 
 - https://www.science.org/doi/10.1126/science.aar3247
